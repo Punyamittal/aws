@@ -367,7 +367,7 @@ python manage.py runserver
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; margin: 40px 0;">
   <div style="text-align: center;">
-    <img src="https://avatars.githubusercontent.com/u/150950158?v=4" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #4CAF50;"/>
+    <img src="https://media.licdn.com/dms/image/v2/D4E03AQFKpill1aJcZw/profile-displayphoto-shrink_800_800/B4EZcXu.JvHQAg-/0/1748449882549?e=1755734400&v=beta&t=MrTlXgbK8V2PT236mg-K-jBm_GRi0MH5dCSJVbB9gV0" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #4CAF50;"/>
     <h3>Utsav Gautam</h3>
 <!--     <p>AI & Backend Lead</p> -->
    <!-- <a href="" style="margin-right: 10px;">--><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="25"></a>
@@ -386,7 +386,7 @@ python manage.py runserver
     <img src="https://media.licdn.com/dms/image/v2/D5603AQHs30yJxy2vNw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723895317993?e=1755734400&v=beta&t=BUWhSiYvQe6r9cHLxF9EIBJajYluLb1ChK-sE_FiXUw" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #FF9800;"/>
     <h3>Vaibhav Raj</h3>
 <!--     <p>Blockchain Integration Lead</p> -->
-    <<a href="https://github.com/veebbruh" style="margin-right: 10px;"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="25"></a>
+    <a href="https://github.com/veebbruh" style="margin-right: 10px;"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="25"></a>
     <a href="https://www.linkedin.com/in/vaibhav-raj-53271231b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25"></a>
   </div>
   
