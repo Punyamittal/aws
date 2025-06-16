@@ -321,10 +321,10 @@ Our platform unifies renewable energy management with AI-powered insights, block
 ### Local Setup:
 ```bash
 # Clone the repo
-git clone https://github.com/Ayushdevx/SustainLabs
+git clone https://github.com/Punyamittal/aws
 
 # Install dependencies
-cd SustainLabs
+cd aws
 npm install
 
 # Configure environment variables
