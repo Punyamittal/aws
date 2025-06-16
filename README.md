@@ -171,37 +171,37 @@ Our platform unifies renewable energy management with AI-powered insights, block
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-bottom: 30px;">
   <div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3>🔷 Groq Track</h3>
+    <h3>🔷 Groq</h3>
     <img src="demo/ai driven recommendations.png" alt="Groq Integration" width="100%" height="180px" style="border-radius: 8px;"/>
     <p>LPU-accelerated AI analysis for real-time energy optimization.</p>
   </div>
   
   <div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3>🔮 Monad Track</h3>
+    <h3>🔮 Monad </h3>
     <img src="demo/network graph.png" alt="Monad Integration" width="100%" height="180px" style="border-radius: 8px;"/>
     <p>High-throughput blockchain for IoT sensor data processing.</p>
   </div>
   
   <div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3>🌊 InfinyOn Track</h3>
+    <h3>🌊 InfinyOn </h3>
     <img src="demo/network optimizer.png" alt="InfinyOn Integration" width="100%" height="180px" style="border-radius: 8px;"/>
     <p>Real-time data streaming for continuous energy analytics.</p>
   </div>
   
   <div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3>🟠 Base Track</h3>
+    <h3>🟠 Base </h3>
     <img src="demo/network firewall.png" alt="Base Integration" width="100%" height="180px" style="border-radius: 8px;"/>
     <p>L2 scaling for cost-effective energy microtransactions.</p>
   </div>
   
   <div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3>🖥️ Screenpipe Track</h3>
+    <h3>🖥️ Screenpipe </h3>
     <img src="demo/disaster monitoring1.png" alt="Screenpipe Integration" width="100%" height="180px" style="border-radius: 8px;"/>
     <p>Visual data processing for energy system monitoring.</p>
   </div>
   
   <div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3>⭐ Stellar Track</h3>
+    <h3>⭐ Stellar </h3>
     <img src="demo/renewable energy.png" alt="Stellar Integration" width="100%" height="180px" style="border-radius: 8px;"/>
     <p>Cross-border renewable energy certificate trading.</p>
   </div>
