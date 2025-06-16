@@ -155,11 +155,6 @@ Our platform unifies renewable energy management with AI-powered insights, block
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
   <div style="width: 48%;">
-    <h3>Health Monitoring</h3>
-    <img src="demo/AI heart.png" alt="Heart Rate Monitoring" width="100%" height="350px" style="border-radius: 10px;"/>
-    <p>Smartphone-based vitals monitoring for rural areas with limited healthcare.</p>
-  </div>
-  <div style="width: 48%;">
     <h3>AI Assistant</h3>
     <img src="demo/ai assistant2.png" alt="AI Assistant Interface" width="100%" height="350px" style="border-radius: 10px;"/>
     <p>Intelligent energy management assistant with natural language interface.</p>
