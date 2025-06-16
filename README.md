@@ -368,34 +368,42 @@ python manage.py runserver
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; margin: 40px 0;">
   <div style="text-align: center;">
     <img src="https://avatars.githubusercontent.com/u/150950158?v=4" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #4CAF50;"/>
-    <h3>Ayush Upadhyay</h3>
-    <p>AI & Backend Lead</p>
-    <a href="https://github.com/Ayushdevx" style="margin-right: 10px;"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="25"></a>
-    <a href="https://linkedin.com/in/ayushdevai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25"></a>
+    <h3>Utsav Gautam</h3>
+<!--     <p>AI & Backend Lead</p> -->
+   <!-- <a href="" style="margin-right: 10px;">--><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="25"></a>
+    <a href="https://www.linkedin.com/in/utsav-gautam-406696303/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25"></a>
   </div>
   
   <div style="text-align: center;">
-    <img src="https://media.licdn.com/dms/image/v2/D4D03AQHYn3mN5qka3w/profile-displayphoto-shrink_800_800/B4DZYQroy1HIAc-/0/1744036597923?e=1750896000&v=beta&t=0MBqHxffnRv3SFDpb0ofsJ1fOO-eo97ZLC845AV4R6E" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #2196F3;"/>
-    <h3>Shreyas Kumar</h3>
-    <p>Frontend & UI/UX Lead</p>
-    <a href="https://github.com/shkshreyas" style="margin-right: 10px;"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="25"></a>
-    <a href="https://linkedin.com/in/shkshreyas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25"></a>
+    <img src="https://media.licdn.com/dms/image/v2/D5603AQGLyawv9ZhVaw/profile-displayphoto-shrink_800_800/B56ZdBuUutHoAc-/0/1749154354756?e=1755734400&v=beta&t=r9f5qW6AFEmmbqUtDO2RdJtol2k9mv-mM3v_zMs0dZY" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #2196F3;"/>
+    <h3>Vaibhav Dwivedi</h3>
+<!--     <p>Frontend & UI/UX Lead</p> -->
+   <!-- <a href="https://github.com/shkshreyas" style="margin-right: 10px;">--><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="25"></a>
+    <a href="https://www.linkedin.com/in/vaibhav-dwivedi-370b0431b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25"></a>
   </div>
   
   <div style="text-align: center;">
-    <img src="https://media.licdn.com/dms/image/v2/D5603AQEgZHmHA98X7A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1708844548441?e=1750896000&v=beta&t=JVLacURWLw0XAYGWPI6PFuQWu3D78a7v5domL3zkX8w" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #FF9800;"/>
-    <h3>Amrithesh Menon</h3>
-    <p>Blockchain Integration Lead</p>
-    <a href="https://github.com/im-Amrith" style="margin-right: 10px;"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="25"></a>
-    <a href="https://www.linkedin.com/in/amrithesh-s-menon-1a2b86277"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25"></a>
+    <img src="https://media.licdn.com/dms/image/v2/D5603AQHs30yJxy2vNw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723895317993?e=1755734400&v=beta&t=BUWhSiYvQe6r9cHLxF9EIBJajYluLb1ChK-sE_FiXUw" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #FF9800;"/>
+    <h3>Vaibhav Raj</h3>
+<!--     <p>Blockchain Integration Lead</p> -->
+    <<a href="https://github.com/veebbruh" style="margin-right: 10px;"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="25"></a>
+    <a href="https://www.linkedin.com/in/vaibhav-raj-53271231b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25"></a>
   </div>
   
   <div style="text-align: center;">
     <img src="https://media.licdn.com/dms/image/v2/D4D03AQFP3G2Y9B2tUg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1728242750706?e=1750896000&v=beta&t=hPcCuCnx7nV_tAMUaC88UkiuUF943MfY5wjguM5RXxw" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #9C27B0;"/>
     <h3>Punya Mittal</h3>
-    <p>Data Science & Analytics Lead</p>
+<!--     <p>Data Science & Analytics Lead</p> -->
     <a href="https://github.com/Punyamittal" style="margin-right: 10px;"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="25"></a>
     <a href="https://www.linkedin.com/in/punya-mittal-a1122520b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25"></a>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D03AQEVM1wY_Li06w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723730449111?e=1755734400&v=beta&t=S8ChWqLr2hw3SJNZ3d645PRvhd_rbGHfC7SlLwlzjpw" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #9C27B0;"/>
+    <h3>Arnav Prabhakar</h3>
+<!--     <p>Data Science & Analytics Lead</p> -->
+    <!--<a href="https://github.com/Punyamittal" style="margin-right: 10px;">--><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="25"></a>
+    <a href="https://www.linkedin.com/in/arnav-prabhakar-1a39072b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25"></a>
   </div>
 </div>
 
