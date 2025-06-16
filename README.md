@@ -1,5 +1,3 @@
-![github-submission-banner](https://github.com/user-attachments/assets/a1493b84-e4e2-456e-a791-ce35ee2bcf2f)
-
 # 🌟 SustainLabs - Revolutionizing Renewable Energy Management
 
 > **Transforming fragmented energy systems into unified, efficient, and trustworthy sustainable solutions**
@@ -38,10 +36,11 @@ Our platform unifies renewable energy management with AI-powered insights, block
 `Single Coders`
 
 ### Team Members:  
-- **Ayush Upadhyay** ([GitHub](https://github.com/Ayushdevx) | [LinkedIn](https://linkedin.com/in/ayushdevai) | AI & Backend Lead)  
-- **Shreyas Kumar** ([GitHub](https://github.com/shkshreyas) | [LinkedIn](https://linkedin.com/in/shkshreyas) | Frontend, App Dev & UI/UX Lead)  
-- **Amrithesh Menon** ([GitHub](https://github.com/im-Amrith) | [LinkedIn](https://www.linkedin.com/in/amrithesh-s-menon-1a2b86277) | Blockchain Integration Lead)  
-- **Punya Mittal** ([GitHub](https://github.com/Punyamittal) | [LinkedIn](https://www.linkedin.com/in/punya-mittal-a1122520b) | Data Science & Analytics Lead)
+- **Utsav Gautam** 
+- **Vaibhav Dwivedi** 
+- **Vaibhav Raj**
+- **Punya Mittal**
+- **Arnav**
 
 ### Our Approach:  
 - We chose this problem because fragmented renewable energy systems limit rural economic development
@@ -62,14 +61,6 @@ Our platform unifies renewable energy management with AI-powered insights, block
 - **Database**: Supabase, MongoDB, TimescaleDB
 - **AI**: TensorFlow, Google Generative AI, Python ML Libraries
 - **Hosting**: AWS, Vercel
-
-### Sponsor Technologies Used:
-- ✅ **Groq:** Real-time AI processing for energy optimization using LPU acceleration
-- ✅ **Monad:** High-throughput blockchain for processing massive IoT sensor data
-- ✅ **InfinyOn/Fluvio:** Real-time data streaming for continuous energy analytics
-- ✅ **Base:** AgentKit for autonomous energy trading and smart wallet integration
-- ✅ **Screenpipe:** Advanced visual processing for energy system monitoring
-- ✅ **Stellar:** Cross-border renewable energy certificate trading and payments
 
 ---
 
