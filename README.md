@@ -33,7 +33,7 @@ Our platform unifies renewable energy management with AI-powered insights, block
 ## 🧠 Team & Approach
 
 ### Team Name:  
-`Single Coders`
+`Team 1341`
 
 ### Team Members:  
 - **Utsav Gautam** 
