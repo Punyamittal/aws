@@ -40,7 +40,7 @@ Our platform unifies renewable energy management with AI-powered insights, block
 - **Vaibhav Dwivedi** 
 - **Vaibhav Raj**
 - **Punya Mittal**
-- **Arnav**
+- **Arnav Prabhakar**
 
 ### Our Approach:  
 - We chose this problem because fragmented renewable energy systems limit rural economic development
